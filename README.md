@@ -13,4 +13,4 @@ So to sum up, the use of Jupyter Notebook is just for the extraction of User's h
 ## Use of PyCharm
 In PyCharm, original "Text File" in Assignment Folder which has the content is passed as an input and from that text file each characters are exctracted and based of character found its equivalent image is concatenated using numpy hconcat. And also using textwrapper library we ensure that each line has specific length of characters. And to concat vertically we have used numpy vconcat. 
 
-And atlast the final file is converted from Image to PDF using PIL library. And at the end a message is printed for user that indicates completion of the conversion from text file contents to a PDF file that as similar contents but with the handwriting of User, which is saved in "Assignment" folder.
+And atlast the final file is converted from Image to PDF using PIL library. And at the end a message is printed for user that indicates completion of the conversion from text file contents to a PDF file that has similar contents but with the handwriting of User, which is saved in "Assignment" folder with name "Shivam.pdf".
