@@ -15,6 +15,7 @@ So to sum up, the use of Jupyter Notebook is just for the extraction of User's h
 
 #### Characters.jpg:
 ![Characters](https://user-images.githubusercontent.com/67229090/139209486-344bfe16-52e0-4058-9e89-81fb79a1f5e2.jpg)
+Here in this image indivisual characters has width of 0.5cm and each character is sepearated from each other character by 1cm. Maintaining this distance, would simplify our process of extraction. And the Red Lines at end of page helps to form red vertical margin in the final PDF.
 
 
 
